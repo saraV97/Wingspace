@@ -4,7 +4,7 @@ import React from "react";
 
 const Nav = () => {
   return (
-    <nav className="bg-white border-gray-200 py-2.5 z-50 dark:bg-gray-900 sticky top-0 drop-shadow-sm">
+    <nav className="bg-white border-gray-200 py-2.5 z-50 sticky top-0 drop-shadow-sm">
       <div className="flex flex-wrap items-center justify-between max-w-screen-2xl px-4 mx-auto">
         <Link href="#" className="flex items-center">
           <Image
@@ -15,7 +15,7 @@ const Nav = () => {
             alt="Landwind Logo"
           />
           <div className="flex flex-col">
-            <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
+            <span className="self-center text-xl font-semibold whitespace-nowrap">
               Wingspace
             </span>
             <span className=" text-gray-400 text-xs justify-end items-end flex italic">
@@ -37,7 +37,7 @@ const Nav = () => {
           <button
             data-collapse-toggle="mobile-menu-2"
             type="button"
-            className="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+            className="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200"
             aria-controls="mobile-menu-2"
             aria-expanded="true"
           >
@@ -76,7 +76,7 @@ const Nav = () => {
             {/* <li>
               <a
                 href="#"
-                className="block py-2 pl-3 pr-4 text-white bg-purple-700 rounded lg:bg-transparent lg:text-purple-700 lg:p-0 dark:text-white"
+                className="block py-2 pl-3 pr-4 text-white bg-purple-700 rounded lg:bg-transparent lg:text-purple-700 lg:p-0"
                 aria-current="page"
               >
                 Home
