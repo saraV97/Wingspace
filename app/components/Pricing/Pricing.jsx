@@ -43,7 +43,7 @@ const Pricing = () => {
           </div>
           <div class="pt-6 pb-8 px-6">
             <h3 class="text-sm font-bold text-slate-900 tracking-wide uppercase">
-              What's included
+              What&apos;s included
             </h3>
             <ul role="list" class="mt-4 space-y-3">
               <li class="flex space-x-3">
@@ -53,11 +53,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -72,11 +72,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -91,11 +91,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -110,11 +110,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -131,11 +131,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -168,7 +168,7 @@ const Pricing = () => {
           </div>
           <div class="pt-6 pb-8 px-6">
             <h3 class="text-sm font-bold text-slate-900 tracking-wide uppercase">
-              What's included
+              What&apos;s included
             </h3>
             <ul role="list" class="mt-4 space-y-3">
               <li class="flex space-x-3">
@@ -178,11 +178,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -199,11 +199,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -220,11 +220,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -241,11 +241,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -260,11 +260,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -301,7 +301,7 @@ const Pricing = () => {
           </div>
           <div class="pt-6 pb-8 px-6">
             <h3 class="text-sm font-bold text-slate-900 tracking-wide uppercase">
-              What's included
+              What&apos;s included
             </h3>
             <ul role="list" class="mt-4 space-y-3">
               <li class="flex space-x-3">
@@ -311,11 +311,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -332,11 +332,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -353,11 +353,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -374,11 +374,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -393,11 +393,11 @@ const Pricing = () => {
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
-                  stroke-width="2"
+                  strokeWidth="2"
                   stroke="currentColor"
                   fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   aria-hidden="true"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
