@@ -7,6 +7,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        "hero-image":
+          "url('https://www.globalworkspace.org/wp-content/uploads/Coworking-Space-Design.jpg')",
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",

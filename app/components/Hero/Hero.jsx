@@ -3,13 +3,20 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="h-[90vh] flex flex-col justify-center items-center">
+    <section className="h-[80vh] lg:h-[100vh] flex flex-col justify-center items-center bg-hero-image bg-cover">
+      {/* <Image
+        className="object-contain"
+        src="https://www.globalworkspace.org/wp-content/uploads/Coworking-Space-Design.jpg"
+        alt="bg_image"
+        width={400}
+        height={400}
+      ></Image> */}
       <div>
-        <h1 className="text-center text-3xl md:text-5xl pb-10 px-20">
+        <h1 className="text-center text-4xl md:text-5xl pb-10 px-20">
           {/* <span>Empowering your Productivity</span>
           <br />
           in a dynamic Workspace. */}
-          <span className="relative inline-block">
+          <span className="relative">
             <svg
               viewBox="0 0 52 24"
               fill="#e5e5e5"
@@ -41,7 +48,7 @@ const Hero = () => {
       </div>
       <div className="flex gap-4 items-center flex-col sm:flex-row mb-10">
         <a
-          className="rounded-full border border-solid border-transparent bg-[#E3311D] transition-colors flex items-center justify-center text-background gap-2 hover:bg-[#383838] text-white text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
+          className="rounded-full border border-solid border-transparent bg-[#E3311D] transition-colors flex items-center justify-center text-background gap-2 hover:bg-[#383838] text-white text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 "
           href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
           target="_blank"
           rel="noopener noreferrer"
@@ -56,7 +63,7 @@ const Hero = () => {
           Get Started
         </a>
         <a
-          className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
+          className="rounded-full border border-solid bg-white bg-opacity-80 border-black/[.08] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-8 md:px-4 sm:px-5 sm:min-w-44"
           href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
           target="_blank"
           rel="noopener noreferrer"

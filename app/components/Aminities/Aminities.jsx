@@ -2,7 +2,7 @@ import React from "react";
 
 const Aminities = () => {
   return (
-    <section className="">
+    <section className="" id="aminities">
       <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
         <h2 className="text-4xl text-start py-4 mb-6 tracking-tighter font-semibold text-balance">
           <span>Everything You Need to Thrive...</span>

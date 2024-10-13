@@ -6,6 +6,10 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
+        hostname: "www.rapinteriors.co.uk",
+      },
+      {
+        protocol: "https",
         hostname: "i.pinimg.com",
       },
       {
@@ -15,6 +19,10 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "pagedone.io",
+      },
+      {
+        protocol: "https",
+        hostname: "www.globalworkspace.org",
       },
     ],
   },
