@@ -75,7 +75,7 @@ const Hero = () => {
         <a
           href="/"
           aria-label="Scroll down"
-          className="flex items-center justify-center w-10 h-10 mx-auto text-white duration-300 transform border border-gray-400 rounded-full hover:text-teal-accent-400 hover:border-teal-accent-400 hover:shadow hover:scale-110"
+          className="flex items-center justify-center w-10 h-10 mx-auto bg-white bg-opacity-70 text-white duration-300 transform border border-gray-400 rounded-full hover:text-teal-accent-400 hover:border-teal-accent-400 hover:shadow hover:scale-110"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
