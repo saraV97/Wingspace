@@ -23,7 +23,7 @@ const Contact = () => {
                   </h1>
                   <div className="absolute bottom-0 w-full lg:p-11 p-5">
                     <div className="bg-white rounded-lg p-6 block">
-                      <a href="javascript:;" className="flex items-center mb-6">
+                      <a href="#" className="flex items-center mb-6">
                         <svg
                           width="30"
                           height="30"
@@ -65,7 +65,7 @@ const Contact = () => {
                           contact@wingspace.in
                         </h5>
                       </a>
-                      <a href="javascript:;" className="flex items-center">
+                      <a href="#" className="flex items-center">
                         <svg
                           width="30"
                           height="30"
@@ -115,18 +115,16 @@ const Contact = () => {
                   placeholder="Phone"
                 />
               </div>
-              <div className="flex gap-5">
-                <input
-                  type="text"
-                  className="w-full h-12 text-gray-600 placeholder-gray-400 shadow-sm bg-transparent text-lg font-normal leading-7 rounded-full border border-gray-200 focus:outline-none pl-4 mb-10"
-                  placeholder="Company Name"
-                />
-                <input
-                  type="number"
-                  className="w-full h-12 text-gray-600 placeholder-gray-400 shadow-sm bg-transparent text-lg font-normal leading-7 rounded-full border border-gray-200 focus:outline-none pl-4 mb-10"
-                  placeholder="No. of Employee"
-                />
-              </div>
+              <input
+                type="text"
+                className="w-full h-12 text-gray-600 placeholder-gray-400 shadow-sm bg-transparent text-lg font-normal leading-7 rounded-full border border-gray-200 focus:outline-none pl-4 mb-10"
+                placeholder="Company Name"
+              />
+              <input
+                type="number"
+                className="w-full h-12 text-gray-600 placeholder-gray-400 shadow-sm bg-transparent text-lg font-normal leading-7 rounded-full border border-gray-200 focus:outline-none pl-4 mb-10"
+                placeholder="No. of Employee"
+              />
               {/* <div className="mb-10">
                 <h4 className="text-gray-500 text-lg font-normal leading-7 mb-4">
                   Preferred method of communication
